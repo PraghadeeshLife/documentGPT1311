@@ -1,0 +1,7 @@
+supabase==1.0.3
+langchain==0.0.228
+gotrue==1.0.2
+pydantic==1.10.12
+pydantic-core==2.4.0
+tiktoken==0.3.3
+reflex==0.2.2
